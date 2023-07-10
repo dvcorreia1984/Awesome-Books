@@ -31,10 +31,7 @@
 - [❓ FAQ](#faq)
 - [📝 License](#license)
 
-# 📖 Awesome books <a name="about-project"></a>
-
-**Awesome books**
-is the library website that allows users to add and remove books from the list. There is a page for a list of books and the page where you can add any book into the library. There is also contact details whenever you want to contact us.
+# 📖 Awesome books <**Awesome **Books is the library website that allows users to add and remove books from the list. There is a page for a list of books and a page where you can add any book to the library. There are also contact details whenever you want to contact us.
 
 ## 🛠 Built With <a name="built-with">HTML, CSS and JavaScript</a>
 
@@ -65,8 +62,8 @@ is the library website that allows users to add and remove books from the list. 
 To get a local copy up and running, follow these steps:
 
 - Open your Terminal in your VSCode.
-- Navigate to the desired directory[folder] to which you want to clone the repository to
-- [Copy & Paste] git clone you find in the code button https://github.com/GeekyHacks/AwesomeBook.git
+- Navigate to the desired directory [folder] to which you want to clone the repository to
+- [Copy & Paste] Git clone you find in the code button https://github.com/GeekyHacks/AwesomeBook.git
 
 ### Prerequisites
 
@@ -152,7 +149,7 @@ I would like to thank...
 
 ## ❓ FAQ <a name="faq"></a>
 
-Can I clone this project ?\*\*
+Can I clone this project?\*\*
 
 - Of course you can as long as you fork it and star it
 
