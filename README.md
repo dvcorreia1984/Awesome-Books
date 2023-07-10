@@ -15,7 +15,7 @@
 - [📖 About the Project](#about-project)
 
   - [🛠 Built With](#built-with)
-       - [Key Features](#key-features)
+    - [Key Features](#key-features)
   - [🛠 Tech Stack](#tech-stack)
 
   - [🚀 Live Demo](#live-demo)
@@ -31,14 +31,11 @@
 - [❓ FAQ](#faq)
 - [📝 License](#license)
 
-# 📖 Awesome books <a name="about-project"></a>
-
-**Awesome books**
-is the library website that allows users to add and remove books from the list. There is a page for a list of books and the page where you can add any book into the library. There is also contact details whenever you want to contact us.
+# 📖 Awesome books <**Awesome **Books is the library website that allows users to add and remove books from the list. There is a page for a list of books and a page where you can add any book to the library. There are also contact details whenever you want to contact us.
 
 ## 🛠 Built With <a name="built-with">HTML, CSS and JavaScript</a>
-### Tech Stack <a name="tech-stack"></a>
 
+### Tech Stack <a name="tech-stack"></a>
 
   <ul>
     <li><a href="https://developer.mozilla.org/ru/docs/Web/HTML">HTML</a></li>
@@ -46,18 +43,15 @@ is the library website that allows users to add and remove books from the list. 
     <li><a href="https://developer.mozilla.org/ru/docs/Web/JavaScript">JavaScript</a></li>
   </ul>
 
-
 ### Key Features <a name="key-features">
 
 </a>
-
-- Mobile First Styling
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://geekyhacks.github.io/AwesomeBook/)
+- [Live Demo Link]()
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -66,8 +60,8 @@ is the library website that allows users to add and remove books from the list. 
 To get a local copy up and running, follow these steps:
 
 - Open your Terminal in your VSCode.
-- Navigate to the desired directory[folder] to which you want to clone the repository to
-- [Copy & Paste] git clone you find in the code button https://github.com/GeekyHacks/AwesomeBook.git
+- Navigate to the desired directory [folder] to which you want to clone the repository to
+- [Copy & Paste] Git clone you find in the code button https://github.com/GeekyHacks/AwesomeBook.git
 
 ### Prerequisites
 
@@ -106,15 +100,22 @@ Must-Install-Project-with-the-Following-Programmes:
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **GeekyHacks**
-    **Bhekisile Jozi**
+👤 **Victor Correia**
 
-- GitHub: [Geekyhacks](https://github.com/GeekyHacks)
-- Twitter: [Geekydart](https://twitter.com/GeekyDart)
-- LinkedIn: [Abdullah Nasser](https://www.linkedin.com/in/abdullah-nasser-711625268/)
+- GitHub: [@githubhandle](https://github.com/dvcorreia1984)
+- Twitter: [@twitterhandle](https://twitter.com/dvcorreia1984)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/dvcorreia)
 
-- GitHub: [@githubhandle](https://github.com/bhekisile)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/bhekisile-jozi-b9823369/)
+👤 **Redwan Mohammed-Nur**
+
+- GitHub: [@ethred](https://github.com/ethred/Portfolio.git)
+- Twitter: [@redwanthr](https://twitter.com/@redwanthr)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/Redwan Tahir/)
+
+👤 **Md Arafat Hossain**
+
+- GitHub: <a href="https://github.com/HossainAraf">HossainAraf </a>
+- LinkedIn: <a href="https://linkedin.com/in/md-arafat-hossain-111403275"> Md. Arafat Hossain </a>
 
 ## 🔭 Future Features <a name="future-features"></a>
 
@@ -149,9 +150,9 @@ I would like to thank...
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## ❓ FAQ  <a name="faq"></a>
+## ❓ FAQ <a name="faq"></a>
 
-Can I clone this project ?\*\*
+Can I clone this project?\*\*
 
 - Of course you can as long as you fork it and star it
 
