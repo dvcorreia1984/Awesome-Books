@@ -15,7 +15,7 @@
 - [📖 About the Project](#about-project)
 
   - [🛠 Built With](#built-with)
-       - [Key Features](#key-features)
+    - [Key Features](#key-features)
   - [🛠 Tech Stack](#tech-stack)
 
   - [🚀 Live Demo](#live-demo)
@@ -37,15 +37,14 @@
 is the library website that allows users to add and remove books from the list. There is a page for a list of books and the page where you can add any book into the library. There is also contact details whenever you want to contact us.
 
 ## 🛠 Built With <a name="built-with">HTML, CSS and JavaScript</a>
-### Tech Stack <a name="tech-stack"></a>
 
+### Tech Stack <a name="tech-stack"></a>
 
   <ul>
     <li><a href="https://developer.mozilla.org/ru/docs/Web/HTML">HTML</a></li>
     <li><a href="https://developer.mozilla.org/ru/docs/Web/CSS">CSS</a></li>
     <li><a href="https://developer.mozilla.org/ru/docs/Web/JavaScript">JavaScript</a></li>
   </ul>
-
 
 ### Key Features <a name="key-features">
 
@@ -112,6 +111,12 @@ Must-Install-Project-with-the-Following-Programmes:
 - Twitter: [@twitterhandle](https://twitter.com/dvcorreia1984)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/dvcorreia)
 
+👤 **Redwan Mohammed-Nur**
+
+- GitHub: [@ethred](https://github.com/ethred/Portfolio.git)
+- Twitter: [@redwanthr](https://twitter.com/@redwanthr)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/Redwan Tahir/)
+
 ## 🔭 Future Features <a name="future-features"></a>
 
 - Adding Contact Form Page
@@ -145,7 +150,7 @@ I would like to thank...
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## ❓ FAQ  <a name="faq"></a>
+## ❓ FAQ <a name="faq"></a>
 
 Can I clone this project ?\*\*
 
