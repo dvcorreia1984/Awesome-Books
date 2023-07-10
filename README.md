@@ -50,13 +50,11 @@ is the library website that allows users to add and remove books from the list. 
 
 </a>
 
-- Mobile First Styling
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://geekyhacks.github.io/AwesomeBook/)
+- [Live Demo Link]()
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -116,6 +114,11 @@ Must-Install-Project-with-the-Following-Programmes:
 - GitHub: [@ethred](https://github.com/ethred/Portfolio.git)
 - Twitter: [@redwanthr](https://twitter.com/@redwanthr)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/Redwan Tahir/)
+
+👤 **Md Arafat Hossain**
+
+- GitHub: <a href="https://github.com/HossainAraf">HossainAraf </a>
+- LinkedIn: <a href="https://linkedin.com/in/md-arafat-hossain-111403275"> Md. Arafat Hossain </a>
 
 ## 🔭 Future Features <a name="future-features"></a>
 
