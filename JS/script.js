@@ -32,3 +32,23 @@ function displayBooks() {
     }
     document.getElementById("display").innerHTML = book;
 }
+
+// Add books
+function addBook() {
+  let title = document.getElementById('Title').value;
+  let author = document.getElementById('Author').value;
+  let bookId = books.length + 1;
+  books.push({ Id: bookId, Title: title, Author: author });
+  displayBooks();
+  document.querySelector('form').reset();
+  localStorage.setItem("myBooklist", JSON.stringify(books));
+}
+// Remove Book
+function removeBook(removeId) {
+  let filter = books.filter((remBook, i) => {
+      if ( removeId === remBook.Id) {
+          books.splice(i, 1);
+          displayBooks();
+      }
+  });
+}
