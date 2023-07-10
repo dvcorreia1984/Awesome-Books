@@ -106,15 +106,11 @@ Must-Install-Project-with-the-Following-Programmes:
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **GeekyHacks**
-    **Bhekisile Jozi**
+👤 **Victor Correia**
 
-- GitHub: [Geekyhacks](https://github.com/GeekyHacks)
-- Twitter: [Geekydart](https://twitter.com/GeekyDart)
-- LinkedIn: [Abdullah Nasser](https://www.linkedin.com/in/abdullah-nasser-711625268/)
-
-- GitHub: [@githubhandle](https://github.com/bhekisile)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/bhekisile-jozi-b9823369/)
+- GitHub: [@githubhandle](https://github.com/dvcorreia1984)
+- Twitter: [@twitterhandle](https://twitter.com/dvcorreia1984)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/dvcorreia)
 
 ## 🔭 Future Features <a name="future-features"></a>
 
