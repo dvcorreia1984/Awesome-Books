@@ -1,17 +1,3 @@
-const btnColor = document.querySelector('test');
-const backgrod = document.getElementById('backgrod');
-
-function chBackcolor() {
-  backgrod.style.backgroundColor = 'red';
-}
-function chcolor() {
-  backgrod.style.backgroundColor = '';
-}
-
-btnColor.addEventListener('click', chBackcolor());
-
-btnColor.addEventListener('click', chcolor());
-
 const books = [
   {   Id:1,
       Title:"Lorem ipsum",
@@ -32,16 +18,20 @@ function displayBooks() {
     }
     document.getElementById("display").innerHTML = book;
 }
+displayBooks();
 
 // Add books
 function addBook() {
   let title = document.getElementById('Title').value;
   let author = document.getElementById('Author').value;
-  let bookId = books.length + 1;
-  books.push({ Id: bookId, Title: title, Author: author });
-  displayBooks();
-  document.querySelector('form').reset();
-  localStorage.setItem("myBooklist", JSON.stringify(books));
+  if(title && author){
+    let bookId = books.length + 1;
+    books.push({ Id: bookId, Title: title, Author: author });
+    displayBooks();
+    document.querySelector('form').reset();
+    localStorage.setItem("myBooklist", JSON.stringify(books));
+  }
+ 
 }
 // Remove Book
 function removeBook(removeId) {
