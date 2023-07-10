@@ -20,3 +20,15 @@ const books = [
       Title:"Second Books",
       Author:"Testeroo Testyy"},
 ];
+
+// Display books
+function displayBooks() {
+    let book = "";
+    for (let i = 0; i < books.length; i++) {
+        book += "<p>" + books[i].Title + "</p>";
+        book += "<p>" + books[i].Author + "</p>";
+        book += `<button onclick="removeBook(${books[i].Id})">Remove</button><br>`;
+        book += "<hr>";
+    }
+    document.getElementById("display").innerHTML = book;
+}
